@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ricardo Jiménez López
 
-<!--
-**RicardoJim91/RicardoJim91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Automation & Digitalization professional with experience leading projects in production environments.  
+Specialized in PLC automation, software development for industrial processes, and MES-based digital transformation.
 
-Here are some ideas to get you started:
+## 🔧 Core Areas
+- Industrial Automation (Beckhoff TwinCAT 3, Siemens, ABB IRC5)
+- Industrial Software Development (.NET C#, WPF / WinForms)
+- SQL Server & Process Digitalization (IT/OT integration)
+- Python for Data Analysis & Machine Learning (MSc in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects (Portfolio)
+- Industrial MES Dashboard Demo *(in progress)*
+- PLC Variable Monitor (ADS) *(in progress)*
+- SQL Server Priority Queue Manager *(in progress)*
+- Industrial Data Analysis with Pandas *(in progress)*
+- Predictive Maintenance ML Demo *(in progress)*
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ricardojl
+- Email: jimenezlr91@outlook.com
