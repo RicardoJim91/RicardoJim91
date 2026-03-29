@@ -1,21 +1,38 @@
 # Ricardo Jiménez López
 
-Industrial Automation & Digitalization professional with experience leading projects in production environments.  
-Specialized in PLC automation, software development for industrial processes, and MES-based digital transformation.
+Software Developer with a strong background in Industrial Automation and Digitalization, currently expanding into Artificial Intelligence, Machine Learning and Deep Learning.
 
-## 🔧 Core Areas
+I focus on building practical solutions that combine software, data and industrial processes to create real business value.
+
+---
+
+## Core Areas
+
 - Industrial Automation (Beckhoff TwinCAT 3, Siemens, ABB IRC5)
 - Industrial Software Development (.NET C#, WPF / WinForms)
 - SQL Server & Process Digitalization (IT/OT integration)
-- Python for Data Analysis & Machine Learning (MSc in progress)
+- Python for Data Analysis, Machine Learning & Deep Learning
 
-## 🚀 Featured Projects (Portfolio)
-- Industrial MES Dashboard Demo *(in progress)*
-- PLC Variable Monitor (ADS) *(in progress)*
-- SQL Server Priority Queue Manager *(in progress)*
-- Industrial Data Analysis with Pandas *(in progress)*
-- Predictive Maintenance ML Demo *(in progress)*
+---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/ricardojl
-- Email: jimenezlr91@outlook.com
+## Featured Projects
+
+- Deep Learning – CNN Image Classification (MNIST)  
+- Machine Learning – Cardiovascular Disease Prediction *(coming soon)*  
+- Data Analysis – Fake vs Real News Dataset *(coming soon)*  
+
+---
+
+## Focus
+
+Interested in applying AI in industrial environments:
+- Predictive maintenance
+- Process optimization
+- Data-driven decision systems
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ricardojl  
+- Email: jimenezrl91@outlook.com
