@@ -25,8 +25,12 @@ Application of generative AI and computer vision concepts for industrial inspect
 
 ---
 
-### Deep Learning – CNN Image Classification (MNIST)
+### Deep Learning – CNN Image Classification
+Convolutional Neural Network (CNN) project for handwritten digit recognition using the MNIST dataset.
 
+🔗 https://github.com/RicardoJim91/deep-learning-mnist-cnn
+
+---
 ### Machine Learning – Cardiovascular Disease Prediction *(coming soon)*
 
 ### Data Analysis – Fake vs Real News Dataset *(coming soon)*
