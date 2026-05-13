@@ -1,8 +1,8 @@
 # Ricardo Jiménez López
 
-Software Developer with a strong background in Industrial Automation and Digitalization, currently expanding into Artificial Intelligence, Machine Learning and Deep Learning.
+Industrial Software Developer focused on manufacturing systems, industrial digitalization and applied artificial intelligence.
 
-I focus on building practical solutions that combine software, data and industrial processes to create real business value.
+I build practical solutions that combine software, industrial processes and data-driven technologies to improve efficiency, traceability and decision-making in industrial environments.
 
 ---
 
@@ -10,29 +10,41 @@ I focus on building practical solutions that combine software, data and industri
 
 - Industrial Automation (Beckhoff TwinCAT 3, Siemens, ABB IRC5)
 - Industrial Software Development (.NET C#, WPF / WinForms)
-- SQL Server & Process Digitalization (IT/OT integration)
+- SQL Server & MES / Process Digitalization
+- Computer Vision & Applied AI
 - Python for Data Analysis, Machine Learning & Deep Learning
 
 ---
 
 ## Featured Projects
 
-- Deep Learning – CNN Image Classification (MNIST)  
-- Machine Learning – Cardiovascular Disease Prediction *(coming soon)*  
-- Data Analysis – Fake vs Real News Dataset *(coming soon)*  
+### Industrial Vision AI
+Application of generative AI and computer vision concepts for industrial inspection of metal structures.
+
+🔗 https://github.com/RicardoJim91/industrial-vision-ai
 
 ---
 
-## Focus
+### Deep Learning – CNN Image Classification (MNIST)
 
-Interested in applying AI in industrial environments:
-- Predictive maintenance
-- Process optimization
-- Data-driven decision systems
+### Machine Learning – Cardiovascular Disease Prediction *(coming soon)*
+
+### Data Analysis – Fake vs Real News Dataset *(coming soon)*
+
+---
+
+## Current Interests
+
+- Industrial AI
+- Computer Vision
+- Manufacturing Digitalization
+- Predictive Maintenance
+- Process Optimization
+- AI-assisted industrial systems
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/ricardojl  
+- LinkedIn: https://www.linkedin.com/in/ricardojl
 - Email: jimenezrl91@outlook.com
